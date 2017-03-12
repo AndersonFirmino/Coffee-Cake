@@ -5,7 +5,7 @@
 <img src="app_img/coffee-cake.png" width="350" height="350" title="Coffee Cake">
 
 
-:sparkles: Is a simple cakefile ready to use. :cake: :sparkles:
+:sparkles: A simple cakefile, ready to use. :cake: :sparkles:
 
 Comes with 7 initial tasks, you can customize as you want.
   
